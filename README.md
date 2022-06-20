@@ -14,7 +14,15 @@ the use of smart contract and IPFS
 
 # Requirement
 [1] Truffle v8.3.1 (Ethereum Framework)
+
 [2] npm v6.11.3
+
 [3] node v12.9.1
+
 [4] Ganache (Personal Ethereum blockchain)
+
 [5] chai v4.2.0 (Testing)
+
+# Project Diagram
+
+![SDBI](https://user-images.githubusercontent.com/84768470/174545066-25085890-3986-4c1d-a22d-3426953c646e.jpeg)
