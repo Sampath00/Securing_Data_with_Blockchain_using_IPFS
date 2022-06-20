@@ -13,4 +13,8 @@ stroage application on the Ethereum private blockchain with
 the use of smart contract and IPFS
 
 # Requirement
-[1] Truffle version
+[1] Truffle v8.3.1 (Ethereum Framework)
+[2] npm v6.11.3
+[3] node v12.9.1
+[4] Ganache (Personal Ethereum blockchain)
+[5] chai v4.2.0 (Testing)
